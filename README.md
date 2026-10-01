@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./previews/preview.png" style="width: 100%;">
+  <img src="preview.png" style="width: 100%;">
 </p>
 
 <p align="center">
-  <img src="./previews/preview2.png" style="width: 100%;">
+  <img src="preview2.png" style="width: 100%;">
 </p>
